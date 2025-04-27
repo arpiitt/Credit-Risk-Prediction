@@ -1,0 +1,24 @@
+Credit Risk Model Interpretation Summary
+Model: Logistic Regression
+
+Top 10 Factors Influencing Credit Risk:
+1. Credit amount (Importance: 1.5955)
+2. Duration (Importance: 0.7144)
+3. Housing: own (Importance: 0.1747)
+4. Age Group: <25 (Importance: 0.1033)
+5. Job: 3 (Importance: 0.0884)
+6. Credit Amount: Very Low (Importance: 0.0679)
+7. Checking: moderate (Importance: 0.0593)
+8. Gender: male (Importance: 0.0541)
+9. Housing: rent (Importance: 0.0513)
+10. Job: 1 (Importance: 0.0487)
+
+Key Insights:
+1. The model identifies several key factors that significantly influence credit risk.
+2. Demographic factors (like age) and financial history (like checking account status) play important roles.
+3. Loan characteristics (amount, duration, purpose) are critical in determining risk.
+
+Recommendations:
+1. Focus on the top factors when evaluating new credit applications.
+2. Consider developing specialized risk models for different loan purposes.
+3. Implement stricter verification processes for high-risk applications.

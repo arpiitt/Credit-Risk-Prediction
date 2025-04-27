@@ -1,0 +1,35 @@
+Feature_Readable,SHAP_Importance
+Credit amount,1.5954890703394318
+Duration,0.7144376662291052
+Housing: own,0.17467691807043872
+Age Group: <25,0.1033255387801631
+Job: 3,0.08835832474275634
+Credit Amount: Very Low,0.06794315374627896
+Checking: moderate,0.059275830006761676
+Gender: male,0.05413496722581857
+Housing: rent,0.0512574854986039
+Job: 1,0.04868162313400573
+Loan Purpose: education,0.0346942750951053
+Checking: rich,0.03170003211221594
+Loan Purpose: furniture/equipment,0.02812722222802285
+Savings: rich,0.017691316820909662
+Savings: moderate,0.011344408027455012
+Age Group: 35-45,0.0107796861305355
+Loan Duration: 2-3yrs,0.0
+Loan Duration: 3-4yrs,0.0
+Loan Duration: <1yr,0.0
+Credit Amount: Very High,0.0
+Credit Amount: Medium,0.0
+Credit Amount: Low,0.0
+Age Group: >65,0.0
+Age,0.0
+Age Group: 55-65,0.0
+Age Group: 45-55,0.0
+Loan Purpose: vacation/others,0.0
+Loan Purpose: repairs,0.0
+Loan Purpose: radio/TV,0.0
+Loan Purpose: domestic appliances,0.0
+Loan Purpose: car,0.0
+Savings: quite rich,0.0
+Job: 2,0.0
+Loan Duration: >4yrs,0.0

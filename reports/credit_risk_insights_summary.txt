@@ -1,0 +1,49 @@
+CREDIT RISK ANALYSIS SUMMARY REPORT
+----------------------------------------
+Date: April 27, 2025
+Model: Logistic Regression
+
+EXECUTIVE SUMMARY
+--------------------
+This report presents a comprehensive analysis of credit risk factors based on the Logistic Regression model.
+The model achieves an accuracy of 76.00% in predicting credit risk.
+
+KEY FINDINGS
+--------------------
+1. DEMOGRAPHIC FACTORS
+   - Age groups >65, 45-55 show the highest risk profiles
+   - Job categories 3, 2 are associated with higher credit risk
+
+2. LOAN CHARACTERISTICS
+   - Loan purposes vacation/others, repairs show the highest risk
+   - Credit amounts in the 3 category show the highest risk
+   - Loan durations in the 4 category show the highest risk
+
+3. FINANCIAL STATUS
+   - Housing type free is associated with the highest risk
+   - Saving account status rich shows the highest risk
+   - Checking account status moderate shows the highest risk
+
+RECOMMENDATIONS
+--------------------
+1. RISK ASSESSMENT STRATEGIES
+   - Implement stricter verification processes for high-risk profiles
+   - Focus on key risk factors identified in the analysis
+
+2. LOAN PRODUCT OPTIMIZATION
+   - Adjust loan terms based on risk factors
+   - Develop specialized loan products for different purposes
+   - Implement tiered interest rates based on risk profiles
+
+3. CUSTOMER RELATIONSHIP MANAGEMENT
+   - Provide financial education resources for high-risk groups
+   - Implement early warning systems for potential defaults
+   - Create incentives for maintaining good financial habits
+
+4. MODEL ENHANCEMENT
+   - Collect additional data on customer behavior and payment history
+   - Regularly retrain the model with new data
+   - Consider ensemble methods for better prediction
+
+This report is accompanied by detailed visualizations in the 'plots/insights' directory
+and a comprehensive HTML report in the 'reports' directory.

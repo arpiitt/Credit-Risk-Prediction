@@ -1,0 +1,35 @@
+Feature,SHAP_Importance
+Credit amount,1.5954890703394318
+Duration,0.7144376662291052
+Housing_own,0.17467691807043872
+Age_Group_<25,0.1033255387801631
+Job_3,0.08835832474275634
+Credit_Amount_Group_Very Low,0.06794315374627896
+Checking account_moderate,0.059275830006761676
+Sex_male,0.05413496722581857
+Housing_rent,0.0512574854986039
+Job_1,0.04868162313400573
+Purpose_education,0.0346942750951053
+Checking account_rich,0.03170003211221594
+Purpose_furniture/equipment,0.02812722222802285
+Saving accounts_rich,0.017691316820909662
+Saving accounts_moderate,0.011344408027455012
+Age_Group_35-45,0.0107796861305355
+Duration_Group_2-3yrs,0.0
+Duration_Group_3-4yrs,0.0
+Duration_Group_<1yr,0.0
+Credit_Amount_Group_Very High,0.0
+Credit_Amount_Group_Medium,0.0
+Credit_Amount_Group_Low,0.0
+Age_Group_>65,0.0
+Age,0.0
+Age_Group_55-65,0.0
+Age_Group_45-55,0.0
+Purpose_vacation/others,0.0
+Purpose_repairs,0.0
+Purpose_radio/TV,0.0
+Purpose_domestic appliances,0.0
+Purpose_car,0.0
+Saving accounts_quite rich,0.0
+Job_2,0.0
+Duration_Group_>4yrs,0.0
